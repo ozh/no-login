@@ -17,9 +17,16 @@ For a hassle free integration, drop the plugin file into `wp-content/mu-plugins`
 
 For live blogs, see [Always Remember Me](http://wordpress.org/extend/plugins/always-remember-me/)
 
+
+== Support ==
+
+On [Github](https://github.com/ozh/no-login). I don't read WordPress support forums.
+
+
 == Screenshots ==
 
 1. Everybody is the admin.
+
 
 == Installation ==
 
@@ -28,7 +35,3 @@ Installation is, as usual :
 1. Upload files to your `/wp-content/plugins/` directory (preserve sub-directory structure if applicable)
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Refer to the official plugin page for documentation, usage and tips
-
-== Support ==
-
-On [Github}(https://github.com/ozh/no-login). I don't read WordPress support forums.
