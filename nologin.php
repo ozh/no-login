@@ -4,7 +4,7 @@
  * Plugin URI:        http://planetozh.com/blog/my-projects/wordpress-plugin-no-login/
  * GitHub Plugin URI: https://github.com/ozh/no-login
  * Description:       Never authenticate, you're always the admin. Obviously for test sites!
- * Version:           1.1.1
+ * Version:           1.1.2
  * Requires at least: 3.3
  * Requires PHP:      5.6
  * Author:            Ozh
