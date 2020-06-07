@@ -1,12 +1,16 @@
 <?php
-/*
-Plugin Name: .No Login !!
-Plugin URI: http://planetozh.com/blog/my-projects/wordpress-plugin-no-login/
-Description: Never authenticate, you're always the admin. Obviously for test sites!
-Author: Ozh
-Version: 1.1.1
-Author URI: http://planetozh.com/
-*/
+/**
+ * Plugin Name:       .No Login !!
+ * Plugin URI:        http://planetozh.com/blog/my-projects/wordpress-plugin-no-login/
+ * GitHub Plugin URI: https://github.com/ozh/no-login
+ * Description:       Never authenticate, you're always the admin. Obviously for test sites!
+ * Version:           1.1.1
+ * Requires at least: 3.3
+ * Requires PHP:      5.6
+ * Author:            Ozh
+ * Author URI:        http://planetozh.com/
+ */
+
 
 if (!function_exists('wp_validate_auth_cookie')) {
     function wp_validate_auth_cookie() {
