@@ -2,9 +2,9 @@
 Donate link: http://planetozh.com/exit/donate
 Tags: ozh, login, auth, admin, nologin
 Contributors: ozh
-Requires at least: 3.3
-Tested up to: 5.4.1
-Requires PHP: 5.6
+Requires at least: 6.0
+Tested up to: 6.9.4
+Requires PHP: 7.2
 Stable tag: trunk
 
 Skip the login form and always auth as admin. FOR TEST SITES.
